@@ -1,0 +1,14 @@
+# local scratch / query output
+*.out
+*.log
+*.bak
+scratch/
+out/
+
+# editor / OS
+.vs/
+.vscode/
+*.suo
+*.user
+Thumbs.db
+.DS_Store
